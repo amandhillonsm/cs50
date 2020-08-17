@@ -1,1 +1,1 @@
-# cs50
+# submit50 C:\project\README.md
